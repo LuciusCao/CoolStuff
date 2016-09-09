@@ -1,2 +1,2 @@
 # CoolStuff
-some cool stuff in this repo
+some cool stuffs in this repo
